@@ -21,7 +21,7 @@ To run this application locally, follow these steps:
 
     npm install
 
-📋 Usage
+### 📋 Usage
 
 1. After installing the dependencies, you can start the application using the following command:
 
@@ -29,7 +29,7 @@ To run this application locally, follow these steps:
 
 This will start the application and begin monitoring the websites specified in the config.json file.
 
-⚙️ Configuration
+### ⚙️ Configuration
 
 The application uses a config.json file to specify configurations about website URLs, threshold, and interval.
 
