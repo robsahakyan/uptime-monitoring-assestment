@@ -23,9 +23,9 @@ To run this application locally, follow these steps:
 
 📋 Usage
 
-After installing the dependencies, you can start the application using the following command:
+1. After installing the dependencies, you can start the application using the following command:
 
-npm run start
+    npm run start
 
 This will start the application and begin monitoring the websites specified in the config.json file.
 
@@ -46,7 +46,9 @@ Here's an example of the config.json file:
 }
 
 urls: An array of website URLs to monitor.
+
 threshold: The number of consecutive failures before triggering an alert. For example, if the threshold value is 3, the application will alert after 3 consecutive failures.
+
 interval: The interval time, in seconds, for checking the websites. For example, if the interval value is 60, the application will check the websites every 60 seconds.
 
 Feel free to modify the config.json file with your desired configurations.
