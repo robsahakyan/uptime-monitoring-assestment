@@ -1,6 +1,6 @@
 # 🚀 Website Monitoring Coding Assestment
 
-This is an example Node.js application that demonstrates basic usage of Node.js and npm.
+This is a Node.js script designed to monitor the uptime of a list of websites. It accomplishes this task by periodically sending HTTP requests to the specified websites and reporting the response status. The script is versatile, supporting both HTTP and HTTPS protocols. Additionally, it offers customizable configuration options to tailor the monitoring process according to specific needs
 
 ## Installation
 
